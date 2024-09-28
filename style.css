@@ -1,0 +1,48 @@
+.input-text {
+  width: 85%;
+  padding: 8px;
+  border: 1px solid black;
+  border-radius: 50px;
+}
+
+.lookup-btn {
+  background-color: black;
+  color: white;
+  padding: 8px;
+  width: 120px;
+  cursor: pointer;
+}
+
+.btn {
+  padding: 10px;
+  margin: 5px;
+}
+
+.loader {
+  border: 4px solid #f3f3f3;
+  border-top: 4px solid #3498db;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  animation: spin 2s linear infinite;
+  margin: 20px auto;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.results {
+}
+
+.details {
+  border: 1px solid black;
+  width: 40%;
+  padding: 10px;
+  margin: 10px;
+}
