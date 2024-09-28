@@ -1,0 +1,29 @@
+{
+  "name": "proj",
+  "version": "1.0.0",
+  "description": "It's a Pincode project",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizsheikh1608/PincodeFinder.git"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "Faiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faizsheikh1608/PincodeFinder/issues"
+  },
+  "homepage": "https://github.com/faizsheikh1608/PincodeFinder#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
